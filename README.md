@@ -1,4 +1,4 @@
-# 🤑 Awesome Black Friday / Cyber Monday Deals You Should Not Miss 2024
+# 🤑 Awesome Black Friday / Cyber Monday Deals
 
 Welcome to the ultimate repository of Black Friday and Cyber Monday deals for indie makers, by indie makers! This curated list is your go-to destination for discovering unbeatable offers on products and services that can elevate your projects and ideas. Whether you're hunting for software, tools, or resources, we've got you covered.
 
